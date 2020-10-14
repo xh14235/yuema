@@ -1,0 +1,14 @@
+数据库用户名yuema
+数据库密码yuema123456
+数据库名yuema
+表名前缀yuema
+
+阿里云账号 无锡跃马
+阿里云密码 lIANCHEN
+
+后台账号 admin
+后台密码 admin
+
+远程：
+账号： Administrator
+密码： Yuema123456

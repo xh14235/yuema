@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/contact/contact.html\" title=\"联系我们\">联系我们</a></li>");

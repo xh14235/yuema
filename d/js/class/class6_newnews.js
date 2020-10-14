@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/news/compony-news/2020-09-06/1.html\" title=\"测试新闻\">测试新闻</a></li>");
